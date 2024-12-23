@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
