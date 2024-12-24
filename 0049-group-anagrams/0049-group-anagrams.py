@@ -8,14 +8,14 @@ class Solution:
 
         # return list(res.values())
 
-        for s in strs:
+        for string in strs:
             count = [0] * 26
-            for c in s:
-                count[ord(c) - ord('a')] += 1
-            
-            key = tuple(count)
-            anagrams_dict[key].append(s)
 
+            for char in string:
+                count[ord(char) - ord('a')] += 1
+
+            keys = tuple(count)
+            anagrams_dict[keys].append(string)
         return list(anagrams_dict.values())
 
         # Time Complexity: O(m * n)
