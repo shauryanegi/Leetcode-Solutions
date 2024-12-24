@@ -1,6 +1,6 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        res = defaultdict(list)
+        anagrams_dict = defaultdict(list)
 
         # for s in strs:
         #     sortedS = ''.join(sorted(s))
@@ -12,9 +12,12 @@ class Solution:
             count = [0] * 26
             for c in s:
                 count[ord(c) - ord('a')] += 1
-            res[tuple(count)].append(s)
-        return list(res.values())
+            
+            key = tuple(count)
+            anagrams_dict[key].append(s)
 
-        # Time Complexity: O(m * n * 26)
+        return list(anagrams_dict.values())
+
+        # Time Complexity: O(m * n)
         # Space Complexity: O(m * n)
                 
