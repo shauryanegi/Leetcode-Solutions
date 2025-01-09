@@ -30,7 +30,8 @@ class Solution:
             elif height[l] > height[r]:
                 r -= 1
             else:
-                l += 1 # r -= 1 will also work
+                l += 1
+                r -= 1 # r -= 1 will also work
 
         return res
             
