@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1019-squares-of-a-sorted-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
