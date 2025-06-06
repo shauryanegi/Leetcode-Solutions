@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2350-find-closest-number-to-zero](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 ## Divide and Conquer
 |  |
