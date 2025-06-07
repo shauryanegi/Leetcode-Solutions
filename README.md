@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2350-find-closest-number-to-zero](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2727-number-of-senior-citizens](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2727-number-of-senior-citizens](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
