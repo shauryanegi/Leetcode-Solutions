@@ -15,3 +15,6 @@ class Solution:
             if stone in jewels_set:
                 ans += 1
         return ans
+
+        # Time Complexity : O(n)
+        # Space Complexity : O(n)
