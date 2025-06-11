@@ -8,16 +8,17 @@ class Solution:
 
         # return []
 
-        prevMap = {}  #value:index
+        map = {}  #value:index
 
         for index, number in enumerate(nums):
+
             diff = target - number
 
-            if diff in prevMap:
-                return [prevMap[diff], index]
+            if diff in map:
+                return [map[diff], index]
 
-            prevMap[number] = index
-
+            map[number] = index
+        
         return
 
 
