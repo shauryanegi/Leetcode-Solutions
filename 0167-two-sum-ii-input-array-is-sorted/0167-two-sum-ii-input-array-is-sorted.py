@@ -7,12 +7,14 @@ class Solution:
         while l < r:
             curSum = numbers[l] + numbers[r]
 
-            if curSum > target:
-                r -= 1
-            elif curSum < target:
-                l += 1
+            if curSum == target:
+                return [l+1, r+1]
+
+            elif curSum > target:
+                r -=1
             else:
-                return [l + 1,r + 1]
+                l += 1
+                
         return []
         
         # Time Complexity: O(n) 
