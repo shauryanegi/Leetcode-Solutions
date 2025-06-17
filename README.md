@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1524-string-matching-in-an-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2350-find-closest-number-to-zero](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2350-find-closest-number-to-zero) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [1524-string-matching-in-an-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
