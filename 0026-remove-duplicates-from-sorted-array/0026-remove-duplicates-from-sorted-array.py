@@ -6,7 +6,7 @@ class Solution:
                 nums[i + 1] = nums[j]
                 i += 1
         return i + 1
-
+    
     # Time Complexity (TC): O(n)
     # Space Complexity (SC): O(1)
         
