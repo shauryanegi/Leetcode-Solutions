@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
