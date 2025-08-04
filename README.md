@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [1019-squares-of-a-sorted-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [0816-design-hashset](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0816-design-hashset](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -196,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
