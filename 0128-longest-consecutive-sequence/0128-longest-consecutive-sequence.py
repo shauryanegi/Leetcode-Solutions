@@ -10,8 +10,9 @@ class Solution:
                 length = 1
 
                 while current_num + 1 in num_set:
-                    length += 1
                     current_num += 1
+                    length += 1
+
 
                 max_len = max(length, max_len)
 
