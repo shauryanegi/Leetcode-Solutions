@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0816-design-hashset) |
+| [0907-koko-eating-bananas](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/shauryanegi/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
